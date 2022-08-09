@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BinaryAddition
+comment1.params=s
+comment1.target=BinaryAddition(java.lang.String)
+comment2.params=
+comment2.target=BinaryAddition()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=ob1\ ob2
+comment4.target=void\ samelength(BinaryAddition,\ BinaryAddition)
+comment5.params=
+comment5.target=void\ bit()
+comment6.params=ob1\ ob2
+comment6.target=void\ add(BinaryAddition,\ BinaryAddition)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

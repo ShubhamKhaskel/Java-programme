@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=palindromelinkedlist
+comment1.params=
+comment1.target=palindromelinkedlist()
+comment2.params=data
+comment2.target=void\ add(int)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=location
+comment4.target=int\ get(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

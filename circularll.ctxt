@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=circularll
+comment1.params=
+comment1.target=circularll()
+comment2.params=data
+comment2.target=void\ addFirst(int)
+comment3.params=data
+comment3.target=void\ addLast(int)
+comment4.params=
+comment4.target=void\ printlist()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=public\ void\ deletefirst()\r\n\ \ {\r\n\ \ \ \ \ \ if(head\=\=null)\r\n\ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ System.out.println("EMPTY\ LIST");\r\n\ \ \ \ \ \ }\r\n\ \ \ \ \ \ head\=head.next;\r\n\ \ }\r\n\ \ //delete\ last\r\n\ \ public\ void\ deletelast()\r\n\ \ {\r\n\ \ \ \ \ \ if(head\=\=null)\r\n\ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ System.out.println("EMPTY\ LIST");\r\n\ \ \ \ \ \ }\r\n\r\n\ \ \ \ \ \ if(head.next\=\=null)\r\n\ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ head\=null;\r\n\ \ \ \ \ \ \ \ \ return;\r\n\ \ \ \ \ \ }\r\n\ \ \ \ \ \ Node\ secondlast\=head;\r\n\ \ \ \ \ \ Node\ last\=head.next;//last\=null\ then\ last.next\=error\ \r\n\ \ \ \ \ \ while(last.next\!\=null)\r\n\ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ last\=last.next;\r\n\ \ \ \ \ \ \ \ \ secondlast\=secondlast.next;\r\n\ \ \ \ \ \ }\r\n\ \ \ \ \ \ secondlast.next\=null;\r\n}
+numComments=6

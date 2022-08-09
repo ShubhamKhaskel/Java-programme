@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=colez
+comment1.params=
+comment1.target=box()
+comment2.params=l
+comment2.target=box(int)
+comment3.params=l\ b
+comment3.target=box(int,\ int)
+comment4.params=l\ b
+comment4.target=box(double,\ double)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

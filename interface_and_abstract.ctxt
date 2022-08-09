@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=interface_and_abstract
+comment1.params=
+comment1.target=int\ func1()
+comment2.params=
+comment2.target=void\ func3()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

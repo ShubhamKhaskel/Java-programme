@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestProg
+comment1.params=
+comment1.target=void\ getdata()
+comment2.params=
+comment2.target=void\ main()
+comment2.text=public\ String\ toString()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ System.out.println("Hello");\r\n\ \ \ \ \ \ \ \ return\ (name+"\ \ "+age);\r\n}
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=doublyll
+comment1.params=
+comment1.target=doublyll()
+comment2.params=data
+comment2.target=void\ addFirst(int)
+comment3.params=data\ place
+comment3.target=void\ addanywhere(int,\ int)
+comment4.params=
+comment4.target=void\ deletefromfirst()
+comment5.params=
+comment5.target=void\ deletefromback()
+comment6.params=
+comment6.target=void\ print()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

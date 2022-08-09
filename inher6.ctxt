@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=inher6
+comment1.params=userid\ emailid\ name\ city
+comment1.target=func(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ show()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

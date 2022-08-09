@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LLrev
+comment1.params=head
+comment1.target=LLrev.ListNode\ reverse(LLrev.ListNode)
+comment2.params=head
+comment2.target=LLrev.ListNode\ findMiddle(LLrev.ListNode)
+comment3.params=head
+comment3.target=boolean\ ispalindrome(LLrev.ListNode)
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=inher3
+comment1.params=x
+comment1.target=abc(int)
+comment2.params=
+comment2.target=int\ geta()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

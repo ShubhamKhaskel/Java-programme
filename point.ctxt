@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=point
+comment1.params=
+comment1.target=point()
+comment2.params=
+comment2.target=void\ readpoint()
+comment3.params=a
+comment3.target=void\ midpoint(point)
+comment3.text=point\ midpoint(point\ a,point\ b)\ \r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ int\ x1,x2,y1,y2;\r\n\ \ \ \ \ \ \ \ \ \ \ point\ ob\=new\ point();\r\n\ \ \ \ \ \ \ \ \ \ \ x1\=a.x;\r\n\ \ \ \ \ \ \ \ \ \ \ x2\=b.x;\r\n\ \ \ \ \ \ \ \ \ \ \ y1\=a.y;\r\n\ \ \ \ \ \ \ \ \ \ \ y2\=b.y;\r\n\ \ \ \ \ \ \ \ \ \ \ ob.x\=(x1+x2)/2;\r\n\ \ \ \ \ \ \ \ \ \ \ ob.y\=(y1+y2)/2;\r\n\ \ \ \ \ \ \ \ \ \ \ return\ ob;\r\n}
+comment4.params=
+comment4.target=void\ displaypoint()
+comment4.text=\ point\ midpoint(point\ a,point\ b)\ \r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ int\ x1,x2,y1,y2;\r\n\ \ \ \ \ \ \ //point\ ob\=new\ point();\r\n\ \ \ \ \ \ \ x1\=a.x;\r\n\ \ \ \ \ \ \ x2\=b.x;\r\n\ \ \ \ \ \ \ y1\=a.y;\r\n\ \ \ \ \ \ \ y2\=b.y;\r\n\ \ \ \ \ \ \ x\=(x1+x2)/2;\r\n\ \ \ \ \ \ \ y\=(y1+y2)/2;\r\n\ \ \ \ \ \ \ return\ this;\r\n}
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=public\ static\ void\ main(String\ args[])\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ point\ ob1\=new\ point();\r\n\ \ \ \ \ \ \ point\ ob2\=new\ point();\r\n\ \ \ \ \ \ \ ob1.readpoint();\r\n\ \ \ \ \ \ \ ob2.readpoint();\r\n\ \ \ \ \ \ \ point\ ob3\=new\ point();\r\n\ \ \ \ \ \ \ //ob3\=ob3.midpoint(ob1,ob2);\r\n\ \ \ \ \ \ \ ob3\=ob1.midpoint(ob2);\r\n\ \ \ \ \ \ \ ob1.displaypoint();\r\n\ \ \ \ \ \ \ //ob2.displaypoint();\r\n\ \ \ \ \ \ \ ob3.displaypoint();\r\n}
+numComments=6

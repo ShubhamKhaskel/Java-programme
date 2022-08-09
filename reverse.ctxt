@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=reverse
+comment1.params=
+comment1.target=reverse()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=data
+comment2.target=void\ addFirst(int)
+comment3.params=data
+comment3.target=void\ addLast(int)
+comment4.params=
+comment4.target=void\ printlist()
+comment5.params=
+comment5.target=void\ deletefirst()
+comment6.params=
+comment6.target=void\ deletelast()
+comment7.params=
+comment7.target=int\ getsize()
+comment8.params=
+comment8.target=void\ reverseit()
+comment9.params=head
+comment9.target=reverse.Node\ reverserecur(reverse.Node)
+numComments=11

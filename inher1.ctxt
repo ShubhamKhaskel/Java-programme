@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=inher1
+comment1.params=r
+comment1.target=circle(int)
+comment2.params=
+comment2.target=double\ area()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

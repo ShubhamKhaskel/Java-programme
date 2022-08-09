@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=combination
+comment1.params=
+comment1.target=combination()
+comment2.params=
+comment2.target=void\ readnum()
+comment3.params=m
+comment3.target=int\ fact(int)
+comment4.params=
+comment4.target=void\ factseries()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

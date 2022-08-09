@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=New19
+comment1.params=
+comment1.target=New19()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=sent
+comment3.target=boolean\ isCap(java.lang.String)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

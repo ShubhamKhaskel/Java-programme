@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=stackproblem
+comment1.params=c
+comment1.target=boolean\ isOpening(char)
+comment2.params=a\ b
+comment2.target=boolean\ isMatching(char,\ char)
+comment3.params=str
+comment3.target=boolean\ isParenthesisMatching(java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

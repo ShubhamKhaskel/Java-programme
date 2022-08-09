@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=bstprac
+comment1.params=
+comment1.target=bstprac()
+comment2.params=root\ data
+comment2.target=bstprac.Node\ insertr(bstprac.Node,\ int)
+comment3.params=data
+comment3.target=void\ insert(int)
+comment4.params=root
+comment4.target=void\ inorderr(bstprac.Node)
+comment5.params=
+comment5.target=void\ inorder()
+comment6.params=root\ data
+comment6.target=bstprac.Node\ searchr(bstprac.Node,\ int)
+comment7.params=data
+comment7.target=boolean\ search(int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

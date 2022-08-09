@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=stackusingll
+comment1.params=data
+comment1.target=void\ push(int)
+comment2.params=
+comment2.target=int\ pop()
+comment3.params=
+comment3.target=int\ peek()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=public\ static\ void\ reverse()\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ Node\ temp1\=head;\r\n\ \ \ \ \ \ \ \ \ \ \ \ Node\ temp2\=head.next;\r\n\ \ \ \ \ \ \ \ \ \ \ \ while(temp2.next\!\=null)\r\n\ \ \ \ \ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ temp1\=temp1.next;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ temp2\=temp2.next;\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ \ \ \ temp2.next\=temp1;\r\n}
+numComments=6

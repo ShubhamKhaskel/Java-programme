@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=linkedlist2
+comment1.params=
+comment1.target=linkedlist2()
+comment2.params=data
+comment2.target=void\ addFirst(java.lang.String)
+comment3.params=data
+comment3.target=void\ addLast(java.lang.String)
+comment4.params=
+comment4.target=void\ printlist()
+comment5.params=
+comment5.target=void\ deletefirst()
+comment6.params=
+comment6.target=void\ deletelast()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

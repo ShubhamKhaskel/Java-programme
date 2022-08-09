@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=merge
+comment1.params=n
+comment1.target=merge(int)
+comment2.params=
+comment2.target=void\ accept()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=ob1\ ob2
+comment4.target=void\ mergeArray(merge,\ merge)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

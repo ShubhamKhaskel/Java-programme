@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Interfaces
+comment1.params=decrement
+comment1.target=void\ applyBrake(int)
+comment2.params=increment
+comment2.target=void\ speedUp(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=matrev
+comment1.params=mm\ nn
+comment1.target=matrev(int,\ int)
+comment2.params=
+comment2.target=void\ fillarray()
+comment3.params=x
+comment3.target=int\ reverse(int)
+comment3.text=public\ int\ reverse(int\ x)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ int\ rev\=0;\r\n\ \ \ \ \ \ \ \ while(x\!\=0)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ int\ rem\=x%10;\r\n\ \ \ \ \ \ \ \ \ \ \ \ rev\=rev*10+rem;\r\n\ \ \ \ \ \ \ \ \ \ \ \ x\=x/10;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ return\ rev;\r\n}
+comment4.params=p
+comment4.target=void\ revmat(matrev)
+comment5.params=
+comment5.target=void\ show()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
